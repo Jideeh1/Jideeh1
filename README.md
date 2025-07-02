@@ -28,7 +28,7 @@ Having past experiences with graphic designing comes in handy in my pursuit of b
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,npm,git,github,nodejs,express,mysql,vscode,vercel,bash,linux,md,cloudflare,java,c,py)](https://aayushbharti.in)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,npm,git,github,nodejs,express,mysql,vscode,vercel,bash,linux,md,cloudflare,java,cpp,blender,ubuntu,py,netlify,replit,regex,obsidian,jquery)](https://aayushbharti.in)
 
   <!-- jest -->
 </p>
