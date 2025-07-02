@@ -11,7 +11,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1>About Me</h1>
+<span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
+  About me
+</span>
 
 <p align="center">I took an interest in programming when I was still little, times when most people still used Note++ to code. Though I never pursued programming because I was already committed to becoming a graphic designer.<br><br>
 It wasn't until pandemic that I discovered I can make my own websites. I picked up the interest in programming that I left years ago, and decided to dabble to it on a whim. With my past experiences, I managed to create various websites with dynamic stylings.<br><br>
