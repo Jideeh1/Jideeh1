@@ -1,6 +1,6 @@
   <a href="https://www.linkedin.com/feed/">
     <img
-      src="/assets/jideeh.png"
+      src="assets/Jideeh.png"
       width="100%"
     />
   </a>
