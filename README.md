@@ -7,11 +7,7 @@
 
 <br/>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=jideeh1&label=Profile%20views&color=red&style=for-the-badge)](https://www.linkedin.com/in/john-daniel-absalud-507467190/)
-
-<a href="https://x.com/jideeh1" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" ></img></a>
-<a href="https://github.com/Jideeh1" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/></a>
-<a href="https://www.linkedin.com/in/john-daniel-absalud-507467190/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
+![](https://komarev.com/ghpvc/?username=jideeh1&label=Profile%20views&color=red&style=for-the-badge) <a href="https://x.com/jideeh1" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" ></a> <a href="https://github.com/Jideeh1" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/></a> <a href="https://www.linkedin.com/in/john-daniel-absalud-507467190/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
