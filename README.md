@@ -1,6 +1,5 @@
   <a href="https://www.linkedin.com/feed/">
     <img
-      alt="Aayush Bharti"
       src="./assets/jideeh.png"
       width="100%"
     />
@@ -8,10 +7,11 @@
 
 <br/>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
-<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Aayush Bharti | Twitter" ></img></a>
-<a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Aayush Bharti | Linkedin" /></a>
-<a href="https://github.com/AayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
+<!-- [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://www.linkedin.com/in/john-daniel-absalud-507467190/) -->
+
+<a href="https://x.com/jideeh1" target="_blank"><img align="right" src="" ></img></a>
+<a href="" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/></a>
+<a href="https://www.linkedin.com/in/john-daniel-absalud-507467190/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
