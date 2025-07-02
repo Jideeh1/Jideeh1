@@ -6,14 +6,13 @@
   </a>
 
 <br/>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=jideeh1&label=Profile%20views&color=red&style=for-the-badge) <a href="https://x.com/jideeh1" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" ></a> <a href="https://github.com/Jideeh1" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/></a> <a href="https://www.linkedin.com/in/john-daniel-absalud-507467190/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-  About me
-</span>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThmajR3a2s0cWZ2MWtqOWFoY2I2ZG11bWxzM3RramU0cTk1M3ZkMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fsLU6qu7OddhGHDvso/giphy.gif" width ="20"> &ensp; <b>About Me</b>
 
 <p align="center">I took an interest in programming when I was still little, times when most people still used Note++ to code. Though I never pursued programming because I was already committed to becoming a graphic designer.<br><br>
 It wasn't until pandemic that I discovered I can make my own websites. I picked up the interest in programming that I left years ago, and decided to dabble to it on a whim. With my past experiences, I managed to create various websites with dynamic stylings.<br><br>
