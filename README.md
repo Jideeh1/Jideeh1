@@ -43,20 +43,16 @@ Having past experiences with graphic designing comes in handy in my pursuit of b
     <a href="https://git-scm.com/">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
     </a>
-    </a>
-        <a href="https://git-scm.com/">
+    <a href="https://git-scm.com/">
         <img src="https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/>
     </a>
-    </a>
-        <a href="https://git-scm.com/">
+    <a href="https://git-scm.com/">
         <img src="https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"/>
     </a>
-    </a>
-        <a href="https://git-scm.com/">
+    <a href="https://git-scm.com/">
         <img src="https://img.shields.io/badge/netlify-darkblue?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
     </a>
-    </a>
-        <a href="https://git-scm.com/">
+    <a href="https://git-scm.com/">
         <img src="https://img.shields.io/badge/anki-gray?style=for-the-badge&logo=anki&logoColor=white" alt="Anki Badge"/>
     </a>
     <br>
@@ -76,8 +72,7 @@ Having past experiences with graphic designing comes in handy in my pursuit of b
         <img src="https://img.shields.io/badge/Obsidian-purple?style=for-the-badge&logo=obsidian" alt="Obsidian Badge"/>
     </a>
     <a href="https://www.cisco.com/">
-        <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white
-" alt="Cloudflare Badge"/>
+        <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Badge"/>
     </a>
 </div>
 
