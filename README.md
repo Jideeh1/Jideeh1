@@ -20,15 +20,66 @@ Having past experiences with graphic designing comes in handy in my pursuit of b
 
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>Tech Stack</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>I work with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,npm,git,github,nodejs,express,mysql,vscode,vercel,bash,linux,md,cloudflare,java,cpp,blender,ubuntu,py,netlify,replit,regex,obsidian,jquery)](https://github.com/Jideeh1)
-
-  <!-- jest -->
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,npm,git,nodejs,express,mysql" />
+    <img src="https://skillicons.dev/icons?i=md,bash,java,cpp,py,regex,jquery,vercel" />
+  </a> 
 </p>
+
+<div align="center">
+    <a href="https://www.blender.org/">
+        <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender Badge"/>
+    </a>
+    <a href="https://www.canva.com/">
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+    </a>
+    </a>
+        <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/>
+    </a>
+    </a>
+        <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"/>
+    </a>
+    </a>
+        <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/netlify-darkblue?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
+    </a>
+    </a>
+        <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/anki-gray?style=for-the-badge&logo=anki&logoColor=white" alt="Anki Badge"/>
+    </a>
+    <br>
+    <a href="https://www.figma.com/">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+    </a>
+    <a href="https://www.cisco.com/">
+        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge"/>
+    </a>
+    <a href="https://www.cisco.com/">
+        <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github" alt="Github Badge"/>
+    </a>
+    <a href="https://www.cisco.com/">
+        <img src="https://img.shields.io/badge/replit-darkorange?style=for-the-badge&logo=netlify&logoColor=white" alt="Replit Badge"/>
+    </a>
+    <a href="https://www.cisco.com/">
+        <img src="https://img.shields.io/badge/Obsidian-purple?style=for-the-badge&logo=obsidian" alt="Obsidian Badge"/>
+    </a>
+    <a href="https://www.cisco.com/">
+        <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white
+" alt="Cloudflare Badge"/>
+    </a>
+</div>
 
 <br/>
 
