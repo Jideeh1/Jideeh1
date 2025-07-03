@@ -40,19 +40,16 @@ Having past experiences with graphic designing comes in handy in my pursuit of b
     <a href="https://git-scm.com/">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
     </a>
-    <a href="https://git-scm.com/">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-    </a>
-    <a href="https://git-scm.com/">
+    <a href="https://www.linux.org/">
         <img src="https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/>
     </a>
-    <a href="https://git-scm.com/">
+    <a href="https://ubuntu.com">
         <img src="https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"/>
     </a>
-    <a href="https://git-scm.com/">
+    <a href="https://www.netlify.com">
         <img src="https://img.shields.io/badge/netlify-darkblue?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
     </a>
-    <a href="https://git-scm.com/">
+    <a href="https://apps.ankiweb.net">
         <img src="https://img.shields.io/badge/anki-gray?style=for-the-badge&logo=anki&logoColor=white" alt="Anki Badge"/>
     </a>
     <br>
@@ -62,16 +59,16 @@ Having past experiences with graphic designing comes in handy in my pursuit of b
     <a href="https://www.cisco.com/">
         <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge"/>
     </a>
-    <a href="https://www.cisco.com/">
+    <a href="https://www.github.com/">
         <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github" alt="Github Badge"/>
     </a>
-    <a href="https://www.cisco.com/">
+    <a href="https://www.replit.com/">
         <img src="https://img.shields.io/badge/replit-darkorange?style=for-the-badge&logo=netlify&logoColor=white" alt="Replit Badge"/>
     </a>
-    <a href="https://www.cisco.com/">
+    <a href="https://obsidian.md">
         <img src="https://img.shields.io/badge/Obsidian-purple?style=for-the-badge&logo=obsidian" alt="Obsidian Badge"/>
     </a>
-    <a href="https://www.cisco.com/">
+    <a href="https://www.cloudflare.com">
         <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Badge"/>
     </a>
 </div>
