@@ -23,9 +23,9 @@ Having past experiences with graphic designing comes in handy in my pursuit of b
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>Tech Stack</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<p align="left">
+<p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,npm,git,github,nodejs,express,mysql,vscode,vercel,bash,linux,md,cloudflare,java,cpp,blender,ubuntu,py,netlify,replit,regex,obsidian,jquery)](https://aayushbharti.in)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,npm,git,github,nodejs,express,mysql,vscode,vercel,bash,linux,md,cloudflare,java,cpp,blender,ubuntu,py,netlify,replit,regex,obsidian,jquery)](https://github.com/Jideeh1)
 
   <!-- jest -->
 </p>
