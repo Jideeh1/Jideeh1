@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThmajR3a2s0cWZ2MWtqOWFoY2I2ZG11bWxzM3RramU0cTk1M3ZkMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fsLU6qu7OddhGHDvso/giphy.gif" width ="20"> &ensp; <b>About Me</b>
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThmajR3a2s0cWZ2MWtqOWFoY2I2ZG11bWxzM3RramU0cTk1M3ZkMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fsLU6qu7OddhGHDvso/giphy.gif" width ="20"> &ensp; <b>About Me</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="center">Growing up with a curious mind, I had a lot of interests and explorations.
@@ -22,7 +22,8 @@
 <br>And these are the things that came in handy in my pursuit of becoming a
 <br>Full-Stack Developer.</p>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>I work with</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>I work with</b> -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="center">
