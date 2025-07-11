@@ -20,10 +20,9 @@
 <br>write scripts, and several other hobbies that became my creative outlet at a young age.
 <br>Though those dreams may seem ambitious, it's what influenced the "me" of today.
 <br>And these are the things that came in handy in my pursuit of becoming a
-<br>Full-Stack Developer.</p>
+<br>Full-Stack Developer.</p>-->
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>I work with</b> -->
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>I work with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="center">
