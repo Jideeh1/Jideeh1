@@ -86,30 +86,28 @@
 
   <!-- Top Languages -->
   <picture>
-    <source srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jideeh1&langs_count=8&layout=compact&theme=light&border_radius=10&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jideeh1&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img width="290" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jideeh1&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+    <source srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jideeh1&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jideeh1&langs_count=8&layout=compact&theme=light&border_radius=10&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img width="290" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jideeh1&langs_count=8&layout=compact&theme=light&border_radius=10&hide_border=true" alt="top langs" />
   </picture>
 
   <!-- Readme Stats -->
   <picture>
-    <source srcset="https://github-readme-stats-salesp07.vercel.app/api?username=jideeh1&count_private=true&show_icons=true&theme=light&rank_icon=github&hide_border=true&border_radius=10" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats-salesp07.vercel.app/api?username=jideeh1&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" media="(prefers-color-scheme: light)" />
-    <img width="440" src="https://github-readme-stats-salesp07.vercel.app/api?username=jideeh1&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+    <source srcset="https://github-readme-stats-salesp07.vercel.app/api?username=jideeh1&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-salesp07.vercel.app/api?username=jideeh1&count_private=true&show_icons=true&theme=light&rank_icon=github&hide_border=true&border_radius=10" media="(prefers-color-scheme: light)" />
+    <img width="440" src="https://github-readme-stats-salesp07.vercel.app/api?username=jideeh1&count_private=true&show_icons=true&theme=light&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
   </picture>
 
   <!-- Streak Stats -->
   <picture>
-    <source srcset="https://streak-stats.demolab.com/?user=jideeh1&count_private=true&theme=light&hide_border=true&border_radius=10&card_width=495" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://streak-stats.demolab.com/?user=jideeh1&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" media="(prefers-color-scheme: light)" />
-    <img width="520" src="https://streak-stats.demolab.com/?user=jideeh1&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
-    <a href="https://www.linkedin.com/in/john-daniel-absalud-507467190/">
-  <img width="205" src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-daniel-absalud-507467190%2F&subtitle=John%20Daniel%20Absalud&size=square&rounded=10&format=png" alt="LinkedIn" />
-</a>
+    <source srcset="https://streak-stats.demolab.com/?user=jideeh1&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com/?user=jideeh1&count_private=true&theme=light&hide_border=true&border_radius=10&card_width=495" media="(prefers-color-scheme: light)" />
+    <img width="520" src="https://streak-stats.demolab.com/?user=jideeh1&count_private=true&theme=light&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
   </picture>
-
+  <a href="https://www.linkedin.com/in/john-daniel-absalud-507467190/">
+    <img width="205" src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-daniel-absalud-507467190%2F&subtitle=John%20Daniel%20Absalud&size=square&rounded=10&format=png" alt="LinkedIn" />
+</a>
 </div>
-
 
 </div>
 
