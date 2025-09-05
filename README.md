@@ -86,8 +86,9 @@
   <img width="440" src="https://github-readme-stats-salesp07.vercel.app/api?username=jideeh1&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
   <img width="520" src="https://streak-stats.demolab.com/?user=jideeh1&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
   <a href="https://www.linkedin.com/in/john-daniel-absalud-507467190/">
-    <img width="205" src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-daniel-absalud-507467190%2F&subtitle=John Daniel Absalud&size=square&rounded=10" alt="LinkedIn" />
-  </a>
+  <img width="205" src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-daniel-absalud-507467190%2F&subtitle=John%20Daniel%20Absalud&size=square&rounded=10&format=png" alt="LinkedIn" />
+</a>
+
 </div>
 
 
