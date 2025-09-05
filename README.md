@@ -1,3 +1,4 @@
+  
   <a href="https://www.linkedin.com/feed/">
     <img
       src="assets/Jideeh.png"
@@ -80,11 +81,16 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align=center>
-  <img width=290 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jideeh1&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
-  <img width=440 src="https://github-readme-stats-salesp07.vercel.app/api?username=jideeh1&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
-  <img width=440 src="https://streak-stats.demolab.com/?user=jideeh1&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
+<div align="center">
+  <img width="290" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jideeh1&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+  <img width="440" src="https://github-readme-stats-salesp07.vercel.app/api?username=jideeh1&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+  <img width="520" src="https://streak-stats.demolab.com/?user=jideeh1&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
+  <a href="https://www.linkedin.com/in/john-daniel-absalud-507467190/">
+    <img width="205" src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-daniel-absalud-507467190%2F&subtitle=John Daniel Absalud&size=square&rounded=10" alt="LinkedIn" />
+  </a>
 </div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
