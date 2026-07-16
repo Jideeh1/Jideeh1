@@ -28,7 +28,7 @@
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,npm,git,nodejs,express,mysql,md,bash" />
-    <img src="https://skillicons.dev/icons?i=java,cpp,py,regex,jquery,vercel,ae,ai,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,py,regex,jquery,vercel,ae,ai,ps,pr,blender" />
   </a> 
 </p>
 
